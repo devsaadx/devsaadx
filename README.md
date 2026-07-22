@@ -58,9 +58,13 @@ I enjoy solving problems, learning new tools, and turning ideas into real-world 
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsaadx&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=devsaadx&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsaadx&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devsaadx&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
